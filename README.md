@@ -41,7 +41,7 @@ The apps are in testing for now (by invitation).
 
 ## Download
 
-**Latest: [Wardlink 1.0.0](https://github.com/maximeLeCorre/WardLinkApp/releases/tag/v1.0.0)** — `Wardlink.exe`
+**Latest: [Wardlink 1.0.1](https://github.com/maximeLeCorre/WardLinkApp/releases/tag/v1.0.1)** — `Wardlink.exe`
 
 Wardlink tells you itself when a newer version is out (its window links here).
 
@@ -60,6 +60,7 @@ file is not ours: delete it.
 
 | Version | SHA-256 of `Wardlink.exe` |
 |---|---|
+| 1.0.1 | `2cd6fc19099c0465d2b20295371346647f32dca68dff46608897ac3d52de659f` |
 | 1.0.0 | `1302addf31890016d6bdf1893374e68e6c28bba5639551821ee5f255f0e1e3e4` |
 | 0.6.0 | `f9741a484d9f1fd112b57f8980460b2bd9320fb51447b6169406a88949ba3b3f` |
 
