@@ -28,9 +28,10 @@ The **Wardlink apps** (Android, iPhone, Wear OS, Apple Watch) show what your cli
 no game logic: it passes the apps' requests to the League client and keeps your game history. Everything else
 lives in the apps.
 
-- **Home network only.** The apps find the PC on your Wi-Fi; Wardlink refuses connections from outside it.
-- **You allow each device on the PC.** A phone or a watch asks to pair, both show the same 6-digit code, and you
-  allow it in the Wardlink window. You can unpair a device from either side at any time.
+- **Home network only.** The phone reaches the PC on your Wi-Fi; Wardlink refuses connections from outside it.
+- **You pair by scanning the PC's screen.** In the Wardlink window, Devices › Show the QR code, and scan it with
+  the phone app: the code works once, for 2 minutes. A watch takes its phone's pairing. You can unpair a device
+  from either side at any time.
 - **Only what the apps need.** A paired device reaches the parts of the client the apps use, nothing else:
   no sign-in data, no purchases, no settings.
 - **Private.** Encrypted connections, no account to create, nothing collected about you. Only the iPhone's
@@ -41,7 +42,7 @@ The apps are in testing for now (by invitation).
 
 ## Download
 
-**Latest: [Wardlink 1.0.1](https://github.com/maximeLeCorre/WardLinkApp/releases/tag/v1.0.1)** — `Wardlink.exe`
+**Latest: [Wardlink 1.1.0](https://github.com/maximeLeCorre/WardLinkApp/releases/tag/v1.1.0)** — `Wardlink.exe`
 
 Wardlink tells you itself when a newer version is out (its window links here).
 
@@ -60,6 +61,7 @@ file is not ours: delete it.
 
 | Version | SHA-256 of `Wardlink.exe` |
 |---|---|
+| 1.1.0 | `17098d519617f73a862f29af7d6772f3616fa607fa317fedb00584cc7ae1ff5d` |
 | 1.0.1 | `2cd6fc19099c0465d2b20295371346647f32dca68dff46608897ac3d52de659f` |
 | 1.0.0 | `1302addf31890016d6bdf1893374e68e6c28bba5639551821ee5f255f0e1e3e4` |
 | 0.6.0 | `f9741a484d9f1fd112b57f8980460b2bd9320fb51447b6169406a88949ba3b3f` |
